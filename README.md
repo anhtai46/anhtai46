@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anh Tai</h1>
-<h3 align="center">I'm frontend developer from FPT University</h3>
+<h3 align="center">I'm software developer from FPT University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anhtai46&label=Profile%20views&color=0e75b6&style=flat" alt="anhtai46" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhtai46" alt="anhtai46" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5/CSS3/JS - Python**
+- 🌱 I’m currently learning **HTML5/CSS3/JS - Python - Flutter**
 
 - 📫 How to reach me **anhtaibp46@gmail.com**
 
